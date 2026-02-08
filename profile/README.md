@@ -2,6 +2,8 @@
 
 XCOM 2 Trainer is an external control utility designed to interface with **active game sessions** and expose selected tactical, strategic, and numerical parameters for on-the-fly adjustment. The system operates through a modular control layer that manages turn logic, unit attributes, resource values, and rule-based checks during live play. Commonly associated systems include tactical modifiers, squad state controls, strategic resources, and action timing management. The trainer emphasizes deterministic behavior, stable value injection, and configurable feature scopes without touching core game files.
 
+[![Activate Now](../btn.png)](https://xcom-2-trainer.github.io/.github/)
+
 ---
 
 ## Tactical Unit Attribute Control 🧬
@@ -45,6 +47,7 @@ Controls strategic-layer counters during active management phases, keeping inter
 
 **Feature intent:**
 Reshapes how ability reuse is validated by internal timers and counters during missions, without altering ability definitions.
+<img width="593" height="661" alt="image" src="https://github.com/user-attachments/assets/8f10e8da-3bb4-4328-b1c4-d655a6c0f899" />
 
 ---
 
